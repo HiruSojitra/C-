@@ -6,10 +6,10 @@ using namespace std;
 
 int main()
 {
-    int a=200;
+    int b=200;
 
     cout<<"\n\tA Local : "<<a;
-    cout<<"\n\tA Global : " <<::a;
+    cout<<"\n\tB Global : " <<b;
 
     cout<<"\n\n";
 
