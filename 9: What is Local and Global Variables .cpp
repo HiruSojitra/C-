@@ -8,8 +8,8 @@ int main()
 {
     int b=200;
 
-    cout<<"\n\tA Local : "<<a;
-    cout<<"\n\tB Global : " <<b;
+    cout<<"\n\tA Global : "<<a;
+    cout<<"\n\tB Local: " <<b;
 
     cout<<"\n\n";
 
